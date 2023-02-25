@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6c68e06f.css",
-    "main.js": "/static/js/main.bac4069a.js",
+    "main.css": "https://cdn.jsdelivr.net/gh/braverokmc79/nowmoives@v3.0.0/static/css/main.6c68e06f.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/braverokmc79/nowmoives@v3.0.0/static/js/main.bac4069a.js",
     "index.html": "/index.html"
   },
   "entrypoints": [
