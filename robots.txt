@@ -1,5 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Allow: /
-Sitemap: https://nowmovies.kro.kr/sitemap.xml
-	
+Sitemap: http://now-movies.kro.kr/sitemap.xml
