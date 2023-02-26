@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Fira+Sans");
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&display=swap');
 /*Variables*/
 .left-section .inner-content {
   position: absolute;
@@ -16,7 +16,8 @@ html, body {
 }
 
 body {
-  font-family: "Fira Sans", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight:400;
   color: #f5f6fa;
 }
 
