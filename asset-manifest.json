@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "https://cdn.jsdelivr.net/gh/braverokmc79/nowmoives@v3.0.2/static/css/main.6c68e06f.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/braverokmc79/nowmoives@v3.0.2/static/js/main.bac4069a.js",
+    "main.css": "https://cdn.jsdelivr.net/gh/braverokmc79/nowmoives@v3.0.3/static/css/main.3c136a0b.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/braverokmc79/nowmoives@v3.0.3/static/js/main.60c78612.js",
     "index.html": "/index.html"
   },
-  "entrypoints": ["static/css/main.6c68e06f.css", "static/js/main.bac4069a.js"]
+  "entrypoints": ["static/css/main.3c136a0b.css", "static/js/main.60c78612.js"]
 }
