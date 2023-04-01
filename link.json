@@ -1,7 +1,7 @@
 {
     "url" :[
     {"noonoo" : "https://noonoo27.tv/search?sfl=common_title||season_title||tag_title&sop=and&stx="},     	
-    {"peekle" : "https://peekle.tv/?s="},
+    {"peekle" : "https://www.vivatv.cc/?s="},
     {"qooqootv" : "https://www10.qooqootv.top/bbs/board.php?bo_table=engmovie&sca=&sfl=wr_subject&stx="},
     {"tvchak" : "https://tvchak.live/index.php/vod/search.html?wd="},
     {"youtube" : "https://www.youtube.com/results?sp=mAEB&search_query="},
